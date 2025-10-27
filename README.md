@@ -1,1 +1,2 @@
-This is my first change in Git!
+This is my updated edit from branch 1.
+
