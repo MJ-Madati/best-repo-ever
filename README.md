@@ -1,2 +1,1 @@
-This is my updated edit from branch 1.
-
+This is my updated edit from branch 2.
